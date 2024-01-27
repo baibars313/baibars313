@@ -67,22 +67,7 @@
   </a>
 </div>
 
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/shahbazali67415 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-606f3493-5cbf-45ef-8603-c2df471a84b8' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >shahbazali67415</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I am a dedicated and passionate student and researcher with a strong affinity for cutting-edge technologies. My curiosity drives me to explore a wide array of areas, particularly in the realm of web development, spanning both frontend and backend landscapes. I'm proficient in web2 technologies like Django, React, Nextjs, and Expressjs, enabling me to craft holistic and robust web solutions.
-Moreover, my fascination with blockchain technology has fueled a two-year journey of discovery. I've delved deeply into this innovative field, uncovering its intricacies and applications. This immersive</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-606f3493-5cbf-45ef-8603-c2df471a84b8' src='https://widgets.fiverr.com/api/v1/seller/shahbazali67415?widget_id=606f3493-5cbf-45ef-8603-c2df471a84b8' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 
 ###
